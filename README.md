@@ -2,7 +2,7 @@
 
 Website to Summer School: https://summerschool2023.spp1992-exoplanetdiversity.de
 
-In the hands-on session on Friday (2023-08-04) we will make use of the SPIDER code (https://github.com/djbower/spider). Below you find a shortened subset of installation instructions. Please follow the installation and test routines to make sure you have a running SPIDER version on your Mac or Linux machine for the workshop. The setup is written primarily for MacOS (ARM: M1/M2 Macs, or Intel processors). If you run into problems, please first check out *Troubleshooting* at the very bottom. If that does not help, please write to tim.lichtenberg@rug.nl and describe your issue.
+In the hands-on session on Friday (2023-08-04) we will make use of the SPIDER code (https://github.com/djbower/spider). Below you find a shortened subset of SPIDER installation instructions. Please follow the installation and test routines to make sure you have a running SPIDER version on your Mac or Linux machine for the workshop (reach step 5 of *Test your installation* and compare with the produced image). The setup is written primarily for MacOS (ARM: M1/M2 Macs, or Intel processors). If you run into problems, please first check out *Troubleshooting* at the very bottom. If that does not help, please write to tim.lichtenberg@rug.nl and describe your issue.
 
 ## Code Installation
 
@@ -105,7 +105,7 @@ You should now be ready to use the code.  Proceed to *Running a Model* to learn 
 
 5. A python script ```py/plot_spider_lite.py``` can be used to generate a basic figure of the interior profiles.  Run ```py/plot_spider_lite.py -h``` to see the optional arguments.  Running the script on the output data of ```blackbody50.opts``` will generate the following plot:
 
-![Test output](expected_output/blackbody50-interior.png)
+![blackbody50-interior](https://github.com/FormingWorlds/spp1992_summerschool23/assets/8751016/1408834a-826d-485d-b138-187f54df887e)
 
 
 ## Software dependencies
@@ -236,4 +236,4 @@ If do not have Python installed, there are two options. We recommend Option A, b
 ## Troubleshooting
 
 We have compiled a list of potential problems during the installation here: https://proteus-code.readthedocs.io/en/latest/installation.html#troubleshooting.
-Please check out this list and compare with you error if you run into a dependency or installation problem. If that does not solve your problem please write to tim.lichtenberg@rug.nl.
+Please check out this list and compare with your error if you run into a dependency or installation problem. If that does not solve your problem please write to tim.lichtenberg@rug.nl.
