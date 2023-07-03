@@ -84,7 +84,7 @@ First, check out *Software dependencies* below to make sure you have a working C
     python -m sciath tests.yml
     ```
 
-You should now be ready to use the code.  Proceed to *Running a Model* to learn how to run a basic model and use SPIDER options files.
+You should now be ready to use the code.  Proceed to *Test your installation* to learn how to run a basic model and use SPIDER options files.
 
 ## Test your installation
 
