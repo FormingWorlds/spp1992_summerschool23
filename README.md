@@ -1,6 +1,6 @@
 # Instructions for Friday session at SPP 1992 Summer School 2023
 
-Website to Summer School: https://summerschool2023.spp1992-exoplanetdiversity.de
+Website of Summer School: https://summerschool2023.spp1992-exoplanetdiversity.de
 
 In the hands-on session on Friday (2023-08-04) we will make use of the SPIDER code (https://github.com/djbower/spider). Below you find a shortened subset of SPIDER installation instructions. Please follow the installation and test routines to make sure you have a running SPIDER version on your Mac or Linux machine for the workshop (reach step 5 of *Test your installation* and compare with the produced image). The setup is written primarily for MacOS (ARM: M1/M2 Macs, or Intel processors). If you run into problems, please first check out *Troubleshooting* at the very bottom. If that does not help, please write to tim.lichtenberg@rug.nl and describe your issue.
 
