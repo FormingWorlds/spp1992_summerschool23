@@ -209,29 +209,7 @@ If do not have Python installed, there are two options. We recommend Option A, b
  
  * Option B: Using the ``anaconda`` package manager (be careful, this potentially breaks the PETSc installation on ARM)
     
-    * Install ``conda``:
-        * Download the appropriate Miniconda installer from https://docs.conda.io/en/latest/miniconda.html#id36
-        * Create a conda environment for PROTEUS:
-          ```
-          conda create -n proteus python=3.10.9   
-          conda activate proteus
-          conda install netcdf4 matplotlib numpy pandas scipy sympy natsort
-          conda install -c conda-forge f90nml
-          ```
-    
-    * Refresh your shell:
-            
-      * ARM:
-      
-        ```
-        source ~/.zsrhrc
-        ```
-    
-      * Intel:
-      
-        ```
-        source ~/.bash_profile
-        ```
+    * Follow the instructions at: https://docs.anaconda.com/free/anaconda/install/index.html
 
 ## Troubleshooting
 
